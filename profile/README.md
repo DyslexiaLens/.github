@@ -6,10 +6,10 @@
 *Capstone Project - Coding Camp 2026 powered by DBS Foundation*
 
 <p style="margin-top: 20px; margin-bottom: 20px;">
-    <a href="https://dyslexia-lens.vercel.app/"><b>🌐 Akses Aplikasi Web</b></a> &middot;
-    <a href="https://dyslexia-dataset.streamlit.app/"><b>📊 Data Science Dashboard</b></a> &middot;
+    <a href="https://dyslexia-lens.vercel.app/"><b>🌐 Akses Website DyslexiaLens</b></a> &middot;
+    <a href="https://dyslexia-dataset.streamlit.app/"><b>📊 Streamlit Dashboard</b></a> &middot;
     <a href="https://www.figma.com/design/mmF6PPc3aa30ckaTJ181l1/DyslexiaLens-Design-UI"><b>🎨 UI/UX Figma</b></a> &middot;
-    <a href="https://canva.link/56qc661yzsp6ui9"><b>📑 Presentation Slide</b></a> 
+    <a href="https://canva.link/56qc661yzsp6ui9"><b>📑 Slide Presentasi</b></a> 
 </p>
 
 </div>
