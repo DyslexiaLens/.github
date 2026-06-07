@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/Logo DyslexiaLens.png" alt="DyslexiaLens Logo" width="220"/>
+<img src="Assets/Logo DyslexiaLens.png" alt="DyslexiaLens Logo" width="120"/>
 
 **Sistem Deteksi Disleksia Berbasis Kecerdasan Buatan**  
 *Capstone Project - Coding Camp 2026 powered by DBS Foundation*
