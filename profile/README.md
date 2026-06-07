@@ -18,9 +18,7 @@
 
 ## 🎥 Video Demonstrasi
 
-<div align="center">
-  <video src="Assets/Video Penggunaan DyslexiaLens.mp4" width="80%" controls="controls"></video>
-</div>
+https://github.com/user-attachments/assets/8404e642-33d9-41b1-a445-8addbc285474
 
 ---
 
